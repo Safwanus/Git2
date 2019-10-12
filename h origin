@@ -1,0 +1,60 @@
+[33mcommit ac66219439e729014605a0b7664e3f2fcae219d3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:45:18 2019 +0100
+
+    add test3
+
+[33mcommit 0e90bc40cc988509b3b53106214147ee3f9e9dc5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:44:23 2019 +0100
+
+    modify test1
+
+[33mcommit 3c6d993d04bb4295bb17f4e751f46c8d3682e0a3[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:43:07 2019 +0100
+
+    edit manually to merge master and conflict
+
+[33mcommit 99fea45de2107ae975ab28ff0f075a0724ff6a5f[m
+Merge: cb1c8db b1391fe
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:42:26 2019 +0100
+
+    edit manually to merge master and conflict
+
+[33mcommit cb1c8dbe7607ecce5397e85ac06f1fb1938493a9[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:37:50 2019 +0100
+
+    modify test1 from master
+
+[33mcommit b1391fe781ef19ca9b551ad51805336017687e2a[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:37:33 2019 +0100
+
+    modify test1 from conflict
+
+[33mcommit 92f0f5d4316df8ec3491461d9c5d4c2ff5e46bf5[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:36:33 2019 +0100
+
+    add test2
+
+[33mcommit b9c7b638a5c64793778463c8a9d262c1d88661d9[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:34:14 2019 +0100
+
+    rename test2 in test
+
+[33mcommit e3698cfba793c247245e630faa066c0f6ed158b3[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:31:18 2019 +0100
+
+    modify test1
+
+[33mcommit c256337dd1925248d5a26223db9561543aead6ea[m
+Author: Safouane El-Amine BENELKADI <s.benelkadi@outlook.fr>
+Date:   Sat Oct 12 11:29:44 2019 +0100
+
+    init repo
